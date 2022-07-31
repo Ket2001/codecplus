@@ -1,0 +1,14 @@
+Chạy chương trình game
+-> Hiển thị ra map -> Hiển thị ra tàu -> Điều khiển Tàu di chuyển -> Xử lý vị trí mới của Tàu
+-> Hiện thị điểm và lever map
+-> Điều khiển Tàu bắn đạn -> Xử lý đường di chuyển của đạn -> In ra đạn 
+-> Xuất hiện ra random Gà -> In ra random gà nhả trứng 
+-> Xử lý va chạm: Tàu va đập Gà, Tàu va đập Trứng ( Tàu mặc định có 3 máu)
+-> Nếu máu Tàu về 0 -> Xử lý tạm dừng -> game over
+-> Xử lý va chạm: Đạn trúng gà -> Gà biến mất 
+-> Diệt hết gà, qua màn -> In ra boss
+-> Xử lý va chạm: Tàu va đập Boss
+-> Boss di chuyển, nhả trứng 
+-> Xử lý va chạm: Tàu va đập Trứng
+-> Tàu bắn đạn -> -> Xử lý va chạm: Đạn trúng Boss -> Boss hết máu -> Biến mất
+-> Thực hiện tính năng thoát game
